@@ -1,4 +1,4 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
+# Build and Deploy ChatGPT AI SaaS Business with React
 
 
 ## Introduction
